@@ -1,0 +1,17 @@
+name: jane
+version: 0.1.0
+
+authors:
+  - Milo de Vries <intensmilo@gmail.com>
+
+targets:
+  jane:
+    main: src/jane.cr
+
+crystal: 0.21.1
+
+dependencies:
+  slack:
+    github: manastech/crystal_slack
+
+license: MIT

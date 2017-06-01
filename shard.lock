@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  slack:
+    github: manastech/crystal_slack
+    version: 0.8.0
+
